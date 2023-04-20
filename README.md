@@ -1,2 +1,2 @@
-# week-2
+# week-1
 typescript assignment
